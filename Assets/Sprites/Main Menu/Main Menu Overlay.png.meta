@@ -1,0 +1,3692 @@
+fileFormatVersion: 2
+guid: 5dc31c3d8fa028b4a85cfaceb2202dcb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4567535026200997309
+    second: OverlayNoText_0
+  - first:
+      213: 2170057416195544045
+    second: OverlayNoText_1
+  - first:
+      213: -2654287204188191197
+    second: OverlayNoText_2
+  - first:
+      213: -8396449894697295178
+    second: OverlayNoText_3
+  - first:
+      213: 8340156432778335762
+    second: OverlayNoText_4
+  - first:
+      213: -6735399814914602277
+    second: OverlayNoText_5
+  - first:
+      213: 6711110892703248904
+    second: OverlayNoText_6
+  - first:
+      213: -4979581777646153500
+    second: OverlayNoText_7
+  - first:
+      213: -8308146718919802940
+    second: OverlayNoText_8
+  - first:
+      213: 8223075131832947592
+    second: OverlayNoText_9
+  - first:
+      213: 3859370655989090060
+    second: OverlayNoText_10
+  - first:
+      213: 929905010232181946
+    second: OverlayNoText_11
+  - first:
+      213: 9206814650377352561
+    second: OverlayNoText_12
+  - first:
+      213: 6124124117767890457
+    second: OverlayNoText_13
+  - first:
+      213: -4081204110480671386
+    second: OverlayNoText_14
+  - first:
+      213: 7533144271880771825
+    second: OverlayNoText_15
+  - first:
+      213: -1555887977230591440
+    second: OverlayNoText_16
+  - first:
+      213: -7016027218872550679
+    second: OverlayNoText_17
+  - first:
+      213: 4181116989003744493
+    second: OverlayNoText_18
+  - first:
+      213: -388486626198580928
+    second: OverlayNoText_19
+  - first:
+      213: 4481709958815857342
+    second: OverlayNoText_20
+  - first:
+      213: -4113975182475449552
+    second: OverlayNoText_21
+  - first:
+      213: -127171386128379805
+    second: OverlayNoText_22
+  - first:
+      213: 8120501823205331
+    second: OverlayNoText_23
+  - first:
+      213: -8676107421090853857
+    second: OverlayNoText_24
+  - first:
+      213: 6359970770447570187
+    second: OverlayNoText_25
+  - first:
+      213: -2068668410882623357
+    second: OverlayNoText_26
+  - first:
+      213: 5220796108446625645
+    second: OverlayNoText_27
+  - first:
+      213: 7217264209608506636
+    second: OverlayNoText_28
+  - first:
+      213: -4104032454923684033
+    second: OverlayNoText_29
+  - first:
+      213: -4655442205546119225
+    second: OverlayNoText_30
+  - first:
+      213: -4608624678336956312
+    second: OverlayNoText_31
+  - first:
+      213: 4621733695399386827
+    second: OverlayNoText_32
+  - first:
+      213: 2105063828571635099
+    second: OverlayNoText_33
+  - first:
+      213: 981110179676336363
+    second: OverlayNoText_34
+  - first:
+      213: -3063708179084916274
+    second: OverlayNoText_35
+  - first:
+      213: 4478087029093354185
+    second: OverlayNoText_36
+  - first:
+      213: -7558279249599308794
+    second: OverlayNoText_37
+  - first:
+      213: -4458030350420875523
+    second: OverlayNoText_38
+  - first:
+      213: -2757061281283959567
+    second: OverlayNoText_39
+  - first:
+      213: -6180011977073083291
+    second: OverlayNoText_40
+  - first:
+      213: -6182361959724674124
+    second: OverlayNoText_41
+  - first:
+      213: 4669972066839597048
+    second: OverlayNoText_42
+  - first:
+      213: 3396324598708802120
+    second: OverlayNoText_43
+  - first:
+      213: 8574814271093639322
+    second: OverlayNoText_44
+  - first:
+      213: -8623355162739764438
+    second: OverlayNoText_45
+  - first:
+      213: 3242450353832223893
+    second: OverlayNoText_46
+  - first:
+      213: -4719043838246538121
+    second: OverlayNoText_47
+  - first:
+      213: 3560725462243862376
+    second: OverlayNoText_48
+  - first:
+      213: 127958228546791421
+    second: OverlayNoText_49
+  - first:
+      213: -7529200801116727868
+    second: OverlayNoText_50
+  - first:
+      213: -6958121089454605845
+    second: OverlayNoText_51
+  - first:
+      213: 3334940658250188923
+    second: OverlayNoText_52
+  - first:
+      213: -7406450811582708208
+    second: OverlayNoText_53
+  - first:
+      213: 1674623120670897423
+    second: OverlayNoText_54
+  - first:
+      213: -5647808357063735023
+    second: OverlayNoText_55
+  - first:
+      213: 1684999175301999992
+    second: OverlayNoText_56
+  - first:
+      213: 256138201869211219
+    second: OverlayNoText_57
+  - first:
+      213: 1127486130390847403
+    second: OverlayNoText_58
+  - first:
+      213: -7556985262065253237
+    second: OverlayNoText_59
+  - first:
+      213: -5898497506498797804
+    second: OverlayNoText_60
+  - first:
+      213: -90042988185112516
+    second: OverlayNoText_61
+  - first:
+      213: -3438163862082999181
+    second: OverlayNoText_62
+  - first:
+      213: -5697491032429648171
+    second: OverlayNoText_63
+  - first:
+      213: 1557876106261938193
+    second: OverlayNoText_64
+  - first:
+      213: 5275209747244768373
+    second: OverlayNoText_65
+  - first:
+      213: -2804805321832737197
+    second: OverlayNoText_66
+  - first:
+      213: -8335671068178656985
+    second: OverlayNoText_67
+  - first:
+      213: 7909711298588057410
+    second: OverlayNoText_68
+  - first:
+      213: 1833431721582340818
+    second: OverlayNoText_69
+  - first:
+      213: -414398945385277298
+    second: OverlayNoText_70
+  - first:
+      213: 1516741716417202316
+    second: OverlayNoText_71
+  - first:
+      213: -2012340020009234357
+    second: OverlayNoText_72
+  - first:
+      213: 3595430817758873025
+    second: OverlayNoText_73
+  - first:
+      213: 4257604560316023043
+    second: OverlayNoText_74
+  - first:
+      213: 6595463336452778236
+    second: OverlayNoText_75
+  - first:
+      213: 1284464782121033218
+    second: OverlayNoText_76
+  - first:
+      213: 4686787994860488475
+    second: OverlayNoText_77
+  - first:
+      213: -2528787779902778603
+    second: OverlayNoText_78
+  - first:
+      213: -3854559104262634998
+    second: OverlayNoText_79
+  - first:
+      213: 170602524157856320
+    second: OverlayNoText_80
+  - first:
+      213: 187732258234744699
+    second: OverlayNoText_81
+  - first:
+      213: -8898392149697589674
+    second: OverlayNoText_82
+  - first:
+      213: 1788828961130381736
+    second: OverlayNoText_83
+  - first:
+      213: 6766930539132615865
+    second: OverlayNoText_84
+  - first:
+      213: -6893427613875204742
+    second: OverlayNoText_85
+  - first:
+      213: -8373180334939338849
+    second: OverlayNoText_86
+  - first:
+      213: 6244120887764640525
+    second: OverlayNoText_87
+  - first:
+      213: 7242508613807760277
+    second: OverlayNoText_88
+  - first:
+      213: 4000289659774750337
+    second: OverlayNoText_89
+  - first:
+      213: -6481055417058413984
+    second: OverlayNoText_90
+  - first:
+      213: -3656273322624495745
+    second: OverlayNoText_91
+  - first:
+      213: 2225661241785628291
+    second: OverlayNoText_92
+  - first:
+      213: 2023808346204270607
+    second: OverlayNoText_93
+  - first:
+      213: -8586136769142533907
+    second: OverlayNoText_94
+  - first:
+      213: -3781381141399506732
+    second: OverlayNoText_95
+  - first:
+      213: -3966712609749290074
+    second: OverlayNoText_96
+  - first:
+      213: 3596557825989452006
+    second: OverlayNoText_97
+  - first:
+      213: 1085827901965229076
+    second: OverlayNoText_98
+  - first:
+      213: 190643853257063999
+    second: OverlayNoText_99
+  - first:
+      213: 4177523663060150381
+    second: OverlayNoText_100
+  - first:
+      213: -3861928292679388127
+    second: OverlayNoText_101
+  - first:
+      213: -4298430457326563420
+    second: OverlayNoText_102
+  - first:
+      213: 1917574082198231348
+    second: OverlayNoText_103
+  - first:
+      213: 727742993654471759
+    second: OverlayNoText_104
+  - first:
+      213: 3877348972350397052
+    second: OverlayNoText_105
+  - first:
+      213: 4710186291566195837
+    second: OverlayNoText_106
+  - first:
+      213: -9085242173467995360
+    second: OverlayNoText_107
+  - first:
+      213: 8302682747488489634
+    second: OverlayNoText_108
+  - first:
+      213: -7612876119235909208
+    second: OverlayNoText_109
+  - first:
+      213: 4458649821018277253
+    second: OverlayNoText_110
+  - first:
+      213: -7019385097341883674
+    second: OverlayNoText_111
+  - first:
+      213: -6380936386548550831
+    second: OverlayNoText_112
+  - first:
+      213: 9009062100966728991
+    second: OverlayNoText_113
+  - first:
+      213: 5663337620414824874
+    second: OverlayNoText_114
+  - first:
+      213: 1648399602643713683
+    second: OverlayNoText_115
+  - first:
+      213: -8443966964706366443
+    second: OverlayNoText_116
+  - first:
+      213: -7136864739211801995
+    second: OverlayNoText_117
+  - first:
+      213: -2598028409157399982
+    second: OverlayNoText_118
+  - first:
+      213: 7885928170268868941
+    second: OverlayNoText_119
+  - first:
+      213: -219759487278983460
+    second: OverlayNoText_120
+  - first:
+      213: 5996893579252023279
+    second: OverlayNoText_121
+  - first:
+      213: 1715855759604095388
+    second: OverlayNoText_122
+  - first:
+      213: -1594125005524432879
+    second: OverlayNoText_123
+  - first:
+      213: 7288819692197143654
+    second: OverlayNoText_124
+  - first:
+      213: -6168099467584207186
+    second: OverlayNoText_125
+  - first:
+      213: -4668801744856310157
+    second: OverlayNoText_126
+  - first:
+      213: -2261185816835913382
+    second: OverlayNoText_127
+  - first:
+      213: -667867409506125739
+    second: OverlayNoText_128
+  - first:
+      213: 6490633960936619680
+    second: OverlayNoText_129
+  - first:
+      213: -4542938492590444756
+    second: OverlayNoText_130
+  - first:
+      213: 6001701620121840963
+    second: OverlayNoText_131
+  - first:
+      213: 7321271521541870612
+    second: OverlayNoText_132
+  - first:
+      213: -4253422885041265833
+    second: OverlayNoText_133
+  - first:
+      213: -933079306699243484
+    second: OverlayNoText_134
+  - first:
+      213: 2191040797101513596
+    second: OverlayNoText_135
+  - first:
+      213: 8758944942553011682
+    second: OverlayNoText_136
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OverlayNoText_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 888
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3429220f71bdc90c0800000000000000
+      internalID: -4567535026200997309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_1
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1047
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3998af8b79d1e10800000000000000
+      internalID: 2170057416195544045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_2
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 984
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3268f7ec9d31a2bd0800000000000000
+      internalID: -2654287204188191197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_3
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1018
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2a33c9e41d97b80800000000000000
+      internalID: -8396449894697295178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_4
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1008
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21611fa66103eb370800000000000000
+      internalID: 8340156432778335762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_5
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 989
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda88c3dd8d0782a0800000000000000
+      internalID: -6735399814914602277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_6
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 965
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802f4d7ccc7a22d50800000000000000
+      internalID: 6711110892703248904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_7
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 980
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0946591c8f4eab0800000000000000
+      internalID: -4979581777646153500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_8
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 980
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf35fcd39883bc80800000000000000
+      internalID: -8308146718919802940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_9
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 974
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8835042c34b3e1270800000000000000
+      internalID: 8223075131832947592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_10
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 970
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07cbcee92d3f8530800000000000000
+      internalID: 3859370655989090060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_11
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 949
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4ceb11eafa7ec00800000000000000
+      internalID: 929905010232181946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_12
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 960
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175ba9c052d25cf70800000000000000
+      internalID: 9206814650377352561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_13
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 955
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91625f720724df450800000000000000
+      internalID: 6124124117767890457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_14
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 944
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d7fe21c76ac57c0800000000000000
+      internalID: -4081204110480671386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_15
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 939
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8d83f8dca1b8860800000000000000
+      internalID: 7533144271880771825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_16
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 922
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a9edec020686ae0800000000000000
+      internalID: -1555887977230591440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_17
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 908
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea31acba6012ae90800000000000000
+      internalID: -7016027218872550679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_18
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 929
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de44bedbfbf460a30800000000000000
+      internalID: 4181116989003744493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_19
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 868
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0419175c871db9af0800000000000000
+      internalID: -388486626198580928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_20
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 884
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebabc81667b323e30800000000000000
+      internalID: 4481709958815857342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_21
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 874
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b27c94e5938e6c0800000000000000
+      internalID: -4113975182475449552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_22
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 854
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36059305c423c3ef0800000000000000
+      internalID: -127171386128379805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_23
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 865
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfe19aad89dc1000800000000000000
+      internalID: 8120501823205331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_24
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 848
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ccfbcb446489780800000000000000
+      internalID: -8676107421090853857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_25
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 823
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05156a18b7234850800000000000000
+      internalID: 6359970770447570187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_26
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 812
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388f4436a0d9a43e0800000000000000
+      internalID: -2068668410882623357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_27
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 809
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fe3b0566ef37840800000000000000
+      internalID: 5220796108446625645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_28
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 803
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dfad75f8fd82460800000000000000
+      internalID: 7217264209608506636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_29
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 780
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f377991f93c8b07c0800000000000000
+      internalID: -4104032454923684033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_30
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 791
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfff0acafb846fb0800000000000000
+      internalID: -4655442205546119225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_31
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 771
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86870a8c540ea00c0800000000000000
+      internalID: -4608624678336956312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_32
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 779
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcedbb81f42b32040800000000000000
+      internalID: 4621733695399386827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_33
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 755
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d39832660b63d10800000000000000
+      internalID: 2105063828571635099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_34
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 748
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0b021a28a9d9d00800000000000000
+      internalID: 981110179676336363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_35
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 744
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec94f22b4a58b75d0800000000000000
+      internalID: -3063708179084916274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_36
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 720
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cac4625d6c552e30800000000000000
+      internalID: 4478087029093354185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_37
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 738
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c5d6661199b1790800000000000000
+      internalID: -7558279249599308794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_38
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 736
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6e0451405e122c0800000000000000
+      internalID: -4458030350420875523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_39
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 706
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f416194f53fcb9d0800000000000000
+      internalID: -2757061281283959567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_40
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 720
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c36e699df2c3aa0800000000000000
+      internalID: -6180011977073083291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_41
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 713
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b319bd9d86d33aa0800000000000000
+      internalID: -6182361959724674124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_42
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 688
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff88fa2ad21fc040800000000000000
+      internalID: 4669972066839597048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_43
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 690
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84295ff5a3b222f20800000000000000
+      internalID: 3396324598708802120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_44
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 668
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a988c73f52cdff670800000000000000
+      internalID: 8574814271093639322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_45
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 681
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a239dd00b20b35880800000000000000
+      internalID: -8623355162739764438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_46
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 675
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5946206ea6f7ffc20800000000000000
+      internalID: 3242450353832223893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_47
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 674
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774b1d5b1a6928eb0800000000000000
+      internalID: -4719043838246538121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_48
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 660
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867ebbf31fc3a6130800000000000000
+      internalID: 3560725462243862376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_49
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 665
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7ae96b45996c100800000000000000
+      internalID: 127958228546791421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_50
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 651
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5d9d643c7e28790800000000000000
+      internalID: -7529200801116727868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_51
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 638
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be977ee1cb9cf6f90800000000000000
+      internalID: -6958121089454605845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_52
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 618
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7882020cd6184e20800000000000000
+      internalID: 3334940658250188923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_53
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 607
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01685395a30073990800000000000000
+      internalID: -7406450811582708208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_54
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 593
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05be301bd47d3710800000000000000
+      internalID: 1674623120670897423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_55
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 605
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119cbbdf834fe91b0800000000000000
+      internalID: -5647808357063735023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_56
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 603
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87da3ba82d1526710800000000000000
+      internalID: 1684999175301999992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_57
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 595
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35652d7665cfd8300800000000000000
+      internalID: 256138201869211219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_58
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 567
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf402379a2a5af00800000000000000
+      internalID: 1127486130390847403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_59
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 566
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b840db951f1302790800000000000000
+      internalID: -7556985262065253237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_60
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 571
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f9c98f4c3542ea0800000000000000
+      internalID: -5898497506498797804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_61
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 562
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3036ba116a10cef0800000000000000
+      internalID: -90042988185112516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_62
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 559
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c25f00f203940d0800000000000000
+      internalID: -3438163862082999181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_63
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 556
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6ae05b7127ee0b0800000000000000
+      internalID: -5697491032429648171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_64
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 556
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110cfcd8010be9510800000000000000
+      internalID: 1557876106261938193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_65
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 528
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cd33cd05f453940800000000000000
+      internalID: 5275209747244768373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_66
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 531
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356d8089b645319d0800000000000000
+      internalID: -2804805321832737197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_67
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 543
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721d5b8e35fb15c80800000000000000
+      internalID: -8335671068178656985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_68
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 488
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f1c34c480f4cd60800000000000000
+      internalID: 7909711298588057410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_69
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 513
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da29d4df68a17910800000000000000
+      internalID: 1833431721582340818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_70
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 517
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e889301da52cf3af0800000000000000
+      internalID: -414398945385277298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_71
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 500
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8840171e8c8c0510800000000000000
+      internalID: 1516741716417202316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_72
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 497
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b401c04e96bb214e0800000000000000
+      internalID: -2012340020009234357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_73
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 499
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c58203874985e130800000000000000
+      internalID: 3595430817758873025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_74
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 492
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30148b33acc061b30800000000000000
+      internalID: 4257604560316023043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_75
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 455
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf86162d5fac78b50800000000000000
+      internalID: 6595463336452778236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_76
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 479
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ed2d8f9e553d110800000000000000
+      internalID: 1284464782121033218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_77
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 483
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17893389d0da0140800000000000000
+      internalID: 4686787994860488475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_78
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 469
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513db8a89e0f7ecd0800000000000000
+      internalID: -2528787779902778603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_79
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 460
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a028da0caead18ac0800000000000000
+      internalID: -3854559104262634998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_80
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 436
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ac632871a1e5200800000000000000
+      internalID: 170602524157856320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_81
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 447
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fb6f48e75fa9200800000000000000
+      internalID: 187732258234744699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_82
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 439
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e862d4c7f828480800000000000000
+      internalID: -8898392149697589674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_83
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 423
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a18b18667233d810800000000000000
+      internalID: 1788828961130381736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_84
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 428
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcfdbcf877f8ed50800000000000000
+      internalID: 6766930539132615865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_85
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 432
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d891eab10a550a0800000000000000
+      internalID: -6893427613875204742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_86
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 426
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9787af29dc7ccb80800000000000000
+      internalID: -8373180334939338849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_87
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 426
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03eec95dd297a650800000000000000
+      internalID: 6244120887764640525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_88
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 421
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593e7b8363f828460800000000000000
+      internalID: 7242508613807760277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_89
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 428
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18eca894042e38730800000000000000
+      internalID: 4000289659774750337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_90
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 422
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062bc90bf6aae06a0800000000000000
+      internalID: -6481055417058413984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_91
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 406
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fca3be8ce424dc0800000000000000
+      internalID: -3656273322624495745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_92
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 414
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386bcfa7b1323ee10800000000000000
+      internalID: 2225661241785628291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_93
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 402
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00f9f0e7f2061c10800000000000000
+      internalID: 2023808346204270607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_94
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 382
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0d65a891ae7d880800000000000000
+      internalID: -8586136769142533907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_95
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 382
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d07582f2e5d58bc0800000000000000
+      internalID: -3781381141399506732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_96
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 395
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3b4d1e5e763f8c0800000000000000
+      internalID: -3966712609749290074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_97
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 389
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0a040994a89e130800000000000000
+      internalID: 3596557825989452006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_98
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 385
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c58df49b2a11f00800000000000000
+      internalID: 1085827901965229076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_99
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 375
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ebfff039d45a200800000000000000
+      internalID: 190643853257063999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_100
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 375
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d682d7953ab89f930800000000000000
+      internalID: 4177523663060150381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_101
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 345
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12470deddaca76ac0800000000000000
+      internalID: -3861928292679388127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_102
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 368
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af845be548e854c0800000000000000
+      internalID: -4298430457326563420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_103
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 366
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439dbefc7779c9a10800000000000000
+      internalID: 1917574082198231348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_104
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 362
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cdd80a566791a00800000000000000
+      internalID: 727742993654471759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_105
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 358
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7adb27e85c1fc530800000000000000
+      internalID: 3877348972350397052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_106
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 359
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74b7bef971fd5140800000000000000
+      internalID: 4710186291566195837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_107
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 350
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023da00016cbae180800000000000000
+      internalID: -9085242173467995360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_108
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 337
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0d0d628fd093370800000000000000
+      internalID: 8302682747488489634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_109
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9a3e91181a95690800000000000000
+      internalID: -7612876119235909208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_110
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 328
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58547a7a36e40ed30800000000000000
+      internalID: 4458649821018277253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_111
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 327
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea244bb172269e90800000000000000
+      internalID: -7019385097341883674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_112
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 305
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153b8610a2c5277a0800000000000000
+      internalID: -6380936386548550831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_113
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 313
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f156e8faf3e960d70800000000000000
+      internalID: 9009062100966728991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_114
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 304
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa18ee36f87389e40800000000000000
+      internalID: 5663337620414824874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_115
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 265
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e397b74ba40e610800000000000000
+      internalID: 1648399602643713683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_116
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 265
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c2b8d98c001da80800000000000000
+      internalID: -8443966964706366443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_117
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 229
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a05491553c4fc90800000000000000
+      internalID: -7136864739211801995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_118
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 232
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25accc34de2f1fbd0800000000000000
+      internalID: -2598028409157399982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_119
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 217
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d414f11b3e1707d60800000000000000
+      internalID: 7885928170268868941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_120
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 212
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6d6b029e143fcf0800000000000000
+      internalID: -219759487278983460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_121
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 207
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef332bffee393350800000000000000
+      internalID: 5996893579252023279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_122
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 184
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99920de8b1ffc710800000000000000
+      internalID: 1715855759604095388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_123
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 195
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1180626e0c780e9e0800000000000000
+      internalID: -1594125005524432879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_124
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 181
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664684964e6172560800000000000000
+      internalID: 7288819692197143654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_125
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 187
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea60e57d632866aa0800000000000000
+      internalID: -6168099467584207186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_126
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 151
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e9d17ac85153fb0800000000000000
+      internalID: -4668801744856310157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_127
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a590858da77ae90e0800000000000000
+      internalID: -2261185816835913382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_128
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 108
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558b35b21224bb6f0800000000000000
+      internalID: -667867409506125739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_129
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 108
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aeb6b8d23d531a50800000000000000
+      internalID: 6490633960936619680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_130
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 95
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fa2b0b28d34f0c0800000000000000
+      internalID: -4542938492590444756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_131
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 93
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34daf3b33d35a4350800000000000000
+      internalID: 6001701620121840963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_132
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 71
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414dfa9b8a16a9560800000000000000
+      internalID: 7321271521541870612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_133
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 79
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7532991fb6ec8f4c0800000000000000
+      internalID: -4253422885041265833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_134
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 59
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4208ce070590d03f0800000000000000
+      internalID: -933079306699243484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_135
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 40
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bdf9f0ff3286e10800000000000000
+      internalID: 2191040797101513596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayNoText_136
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 22
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e59314b4060e8970800000000000000
+      internalID: 8758944942553011682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      OverlayNoText_0: -4567535026200997309
+      OverlayNoText_1: 2170057416195544045
+      OverlayNoText_10: 3859370655989090060
+      OverlayNoText_100: 4177523663060150381
+      OverlayNoText_101: -3861928292679388127
+      OverlayNoText_102: -4298430457326563420
+      OverlayNoText_103: 1917574082198231348
+      OverlayNoText_104: 727742993654471759
+      OverlayNoText_105: 3877348972350397052
+      OverlayNoText_106: 4710186291566195837
+      OverlayNoText_107: -9085242173467995360
+      OverlayNoText_108: 8302682747488489634
+      OverlayNoText_109: -7612876119235909208
+      OverlayNoText_11: 929905010232181946
+      OverlayNoText_110: 4458649821018277253
+      OverlayNoText_111: -7019385097341883674
+      OverlayNoText_112: -6380936386548550831
+      OverlayNoText_113: 9009062100966728991
+      OverlayNoText_114: 5663337620414824874
+      OverlayNoText_115: 1648399602643713683
+      OverlayNoText_116: -8443966964706366443
+      OverlayNoText_117: -7136864739211801995
+      OverlayNoText_118: -2598028409157399982
+      OverlayNoText_119: 7885928170268868941
+      OverlayNoText_12: 9206814650377352561
+      OverlayNoText_120: -219759487278983460
+      OverlayNoText_121: 5996893579252023279
+      OverlayNoText_122: 1715855759604095388
+      OverlayNoText_123: -1594125005524432879
+      OverlayNoText_124: 7288819692197143654
+      OverlayNoText_125: -6168099467584207186
+      OverlayNoText_126: -4668801744856310157
+      OverlayNoText_127: -2261185816835913382
+      OverlayNoText_128: -667867409506125739
+      OverlayNoText_129: 6490633960936619680
+      OverlayNoText_13: 6124124117767890457
+      OverlayNoText_130: -4542938492590444756
+      OverlayNoText_131: 6001701620121840963
+      OverlayNoText_132: 7321271521541870612
+      OverlayNoText_133: -4253422885041265833
+      OverlayNoText_134: -933079306699243484
+      OverlayNoText_135: 2191040797101513596
+      OverlayNoText_136: 8758944942553011682
+      OverlayNoText_14: -4081204110480671386
+      OverlayNoText_15: 7533144271880771825
+      OverlayNoText_16: -1555887977230591440
+      OverlayNoText_17: -7016027218872550679
+      OverlayNoText_18: 4181116989003744493
+      OverlayNoText_19: -388486626198580928
+      OverlayNoText_2: -2654287204188191197
+      OverlayNoText_20: 4481709958815857342
+      OverlayNoText_21: -4113975182475449552
+      OverlayNoText_22: -127171386128379805
+      OverlayNoText_23: 8120501823205331
+      OverlayNoText_24: -8676107421090853857
+      OverlayNoText_25: 6359970770447570187
+      OverlayNoText_26: -2068668410882623357
+      OverlayNoText_27: 5220796108446625645
+      OverlayNoText_28: 7217264209608506636
+      OverlayNoText_29: -4104032454923684033
+      OverlayNoText_3: -8396449894697295178
+      OverlayNoText_30: -4655442205546119225
+      OverlayNoText_31: -4608624678336956312
+      OverlayNoText_32: 4621733695399386827
+      OverlayNoText_33: 2105063828571635099
+      OverlayNoText_34: 981110179676336363
+      OverlayNoText_35: -3063708179084916274
+      OverlayNoText_36: 4478087029093354185
+      OverlayNoText_37: -7558279249599308794
+      OverlayNoText_38: -4458030350420875523
+      OverlayNoText_39: -2757061281283959567
+      OverlayNoText_4: 8340156432778335762
+      OverlayNoText_40: -6180011977073083291
+      OverlayNoText_41: -6182361959724674124
+      OverlayNoText_42: 4669972066839597048
+      OverlayNoText_43: 3396324598708802120
+      OverlayNoText_44: 8574814271093639322
+      OverlayNoText_45: -8623355162739764438
+      OverlayNoText_46: 3242450353832223893
+      OverlayNoText_47: -4719043838246538121
+      OverlayNoText_48: 3560725462243862376
+      OverlayNoText_49: 127958228546791421
+      OverlayNoText_5: -6735399814914602277
+      OverlayNoText_50: -7529200801116727868
+      OverlayNoText_51: -6958121089454605845
+      OverlayNoText_52: 3334940658250188923
+      OverlayNoText_53: -7406450811582708208
+      OverlayNoText_54: 1674623120670897423
+      OverlayNoText_55: -5647808357063735023
+      OverlayNoText_56: 1684999175301999992
+      OverlayNoText_57: 256138201869211219
+      OverlayNoText_58: 1127486130390847403
+      OverlayNoText_59: -7556985262065253237
+      OverlayNoText_6: 6711110892703248904
+      OverlayNoText_60: -5898497506498797804
+      OverlayNoText_61: -90042988185112516
+      OverlayNoText_62: -3438163862082999181
+      OverlayNoText_63: -5697491032429648171
+      OverlayNoText_64: 1557876106261938193
+      OverlayNoText_65: 5275209747244768373
+      OverlayNoText_66: -2804805321832737197
+      OverlayNoText_67: -8335671068178656985
+      OverlayNoText_68: 7909711298588057410
+      OverlayNoText_69: 1833431721582340818
+      OverlayNoText_7: -4979581777646153500
+      OverlayNoText_70: -414398945385277298
+      OverlayNoText_71: 1516741716417202316
+      OverlayNoText_72: -2012340020009234357
+      OverlayNoText_73: 3595430817758873025
+      OverlayNoText_74: 4257604560316023043
+      OverlayNoText_75: 6595463336452778236
+      OverlayNoText_76: 1284464782121033218
+      OverlayNoText_77: 4686787994860488475
+      OverlayNoText_78: -2528787779902778603
+      OverlayNoText_79: -3854559104262634998
+      OverlayNoText_8: -8308146718919802940
+      OverlayNoText_80: 170602524157856320
+      OverlayNoText_81: 187732258234744699
+      OverlayNoText_82: -8898392149697589674
+      OverlayNoText_83: 1788828961130381736
+      OverlayNoText_84: 6766930539132615865
+      OverlayNoText_85: -6893427613875204742
+      OverlayNoText_86: -8373180334939338849
+      OverlayNoText_87: 6244120887764640525
+      OverlayNoText_88: 7242508613807760277
+      OverlayNoText_89: 4000289659774750337
+      OverlayNoText_9: 8223075131832947592
+      OverlayNoText_90: -6481055417058413984
+      OverlayNoText_91: -3656273322624495745
+      OverlayNoText_92: 2225661241785628291
+      OverlayNoText_93: 2023808346204270607
+      OverlayNoText_94: -8586136769142533907
+      OverlayNoText_95: -3781381141399506732
+      OverlayNoText_96: -3966712609749290074
+      OverlayNoText_97: 3596557825989452006
+      OverlayNoText_98: 1085827901965229076
+      OverlayNoText_99: 190643853257063999
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
