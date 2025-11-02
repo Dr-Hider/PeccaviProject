@@ -4,8 +4,8 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - Music Manager
-  - SFX Manager
+  - musicManager
+  - sfxManager
   layers:
   - Default
   - TransparentFX

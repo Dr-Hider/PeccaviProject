@@ -1,10 +1,12 @@
 using UnityEngine;
 
-public class SFXManager : MonoBehaviour
+public class SoundManager : MonoBehaviour
 {
-    static SFXManager _instance;
+    static int _counter;
 
     AudioSource audioSource;
+    public string type;
+
     public int ASV
     {
         get { return (int)(audioSource.volume * 100); }
@@ -14,9 +16,9 @@ public class SFXManager : MonoBehaviour
 
     void Awake()
     {
-        if (_instance == null)
+        if (_counter < 2)
         {
-            _instance = this;
+            _counter += 1;
             DontDestroyOnLoad(gameObject);
         }
         else
@@ -26,12 +28,6 @@ public class SFXManager : MonoBehaviour
         }
 
         audioSource = GetComponent<AudioSource>();
-        ASV = PlayerPrefs.GetInt("sfxVolume", 100);
-    }
-
-    public void SaveValue()
-    {
-        PlayerPrefs.SetInt("sfxVolume", ASV);
-        PlayerPrefs.Save();
+        ASV = PlayerPrefs.GetInt($"{type}Volume", 100);
     }
 }
