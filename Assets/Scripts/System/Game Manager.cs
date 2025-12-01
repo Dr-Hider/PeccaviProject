@@ -1,19 +1,21 @@
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
-    SoundManager musicManager;
-    SoundManager sfxManager;
-    public TextMeshProUGUI versionText;
+    SoundManager musicManager; // Music Manager object
+    SoundManager sfxManager; // SFX Manager object
+    public TextMeshProUGUI versionText; // Game version text
 
     void Start()
     {
         musicManager = GameObject.FindGameObjectWithTag("musicManager").GetComponent<SoundManager>();
         sfxManager = GameObject.FindGameObjectWithTag("sfxManager").GetComponent<SoundManager>();
-        versionText.text = $"Vesrion: {Application.version}";
+        versionText.text = $"Vesrion: {Application.version}"; // Setting the current game version to the game vesrion text field
     }
 
+    // Method to leave the game
     public void ExitGame()
     {
 #if UNITY_EDITOR
@@ -23,6 +25,7 @@ public class GameManager : MonoBehaviour
 #endif
     }
 
+    // Method to save settings
     public void SaveSettings()
     {
         int musicVolume = musicManager.ASV;
@@ -31,5 +34,11 @@ public class GameManager : MonoBehaviour
         PlayerPrefs.SetInt("musicVolume", musicVolume);
         PlayerPrefs.SetInt("sfxVolume", sfxVolume);
         PlayerPrefs.Save();
+    }
+
+    // Method to start new game
+    public void NewGame()
+    {
+        SceneManager.LoadScene("Chapter 1 Introduction");
     }
 }
