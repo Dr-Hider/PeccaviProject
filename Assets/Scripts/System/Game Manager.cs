@@ -1,6 +1,5 @@
 using TMPro;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -34,11 +33,5 @@ public class GameManager : MonoBehaviour
         PlayerPrefs.SetInt("musicVolume", musicVolume);
         PlayerPrefs.SetInt("sfxVolume", sfxVolume);
         PlayerPrefs.Save();
-    }
-
-    // Method to start new game
-    public void NewGame()
-    {
-        SceneManager.LoadScene("Chapter 1 Introduction");
     }
 }

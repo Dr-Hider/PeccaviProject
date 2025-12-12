@@ -7,7 +7,7 @@ public class SoundManager : MonoBehaviour
     AudioSource audioSource;
     public string type; // Type of Audio Source object (Music or SFX)
 
-    // The property to get and set the volume
+    // A property to get and set the volume
     public int ASV
     {
         get { return (int)(audioSource.volume * 100); }
@@ -17,6 +17,7 @@ public class SoundManager : MonoBehaviour
 
     void Awake()
     {
+        // Singleton
         if (_counter < 2)
         {
             _counter += 1;

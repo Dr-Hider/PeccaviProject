@@ -6,8 +6,8 @@ using UnityEngine;
 
 public class DialogueManager : MonoBehaviour
 {
-    public string JsonPath { get; set; }
-    public int StringNumber { get; set; }
+    public static string JsonPath { get; set; }
+    public static int StringNumber { get; set; }
     List<Dictionary<string, string>> data;
     public TextMeshProUGUI nameText;
     public TextMeshProUGUI dialogueText;
@@ -20,9 +20,11 @@ public class DialogueManager : MonoBehaviour
 
     void Awake()
     {
-        JsonPath = "Chapter 1/Introduction/Introduction";
-        UpdateJSON();
+        JsonPath = SaveData.JsonPath;
+        StringNumber = SaveData.StringNumber;
+        data = JsonConvert.DeserializeObject<List<Dictionary<string, string>>>(Resources.Load<TextAsset>($"JSON/{JsonPath}").text);
     }
+
     void Start()
     {
         OnStringChange();
@@ -33,6 +35,7 @@ public class DialogueManager : MonoBehaviour
         data = JsonConvert.DeserializeObject<List<Dictionary<string, string>>>(Resources.Load<TextAsset>($"JSON/{JsonPath}").text);
         StringNumber = 0;
     }
+
     void OnStringChange()
     {
         try
@@ -64,16 +67,19 @@ public class DialogueManager : MonoBehaviour
         }
 
     }
+
     public void Forward()
     {
         StringNumber++;
         OnStringChange();
     }
+
     public void Back()
     {
         StringNumber--;
         OnStringChange();
     }
+
     public void OnChoice(int choice)
     {
         switch (choice)
