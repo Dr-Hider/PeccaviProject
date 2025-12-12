@@ -25,36 +25,9 @@ public class SaveManager : MonoBehaviour
         if (SceneManager.GetActiveScene().name == "Main Menu")
             saveData = new SaveData();
 
-        if (File.Exists(Path.Combine(Application.persistentDataPath, $"Save001.json")))
-        {
-            slot1Button.interactable = true;
-            DateTime dateRaw = File.GetLastWriteTime(Path.Combine(Application.persistentDataPath, $"Save001.json"));
-            string date = $"{dateRaw.Day}.{dateRaw.Month}.{dateRaw.Year.ToString().Substring(2)} - {dateRaw.Hour}:{dateRaw.Minute}";
-            slot1LoadText.text = date;
-            if (SceneManager.GetActiveScene().name != "Main Menu")
-                slot1SaveText.text = date;
-        }
-
-        if (File.Exists(Path.Combine(Application.persistentDataPath, $"Save002.json")))
-        {
-            slot2Button.interactable = true;
-            DateTime dateRaw = File.GetLastWriteTime(Path.Combine(Application.persistentDataPath, $"Save002.json"));
-            string date = $"{dateRaw.Day}.{dateRaw.Month}.{dateRaw.Year.ToString().Substring(2)} - {dateRaw.Hour}:{dateRaw.Minute}";
-            slot2LoadText.text = date;
-            if (SceneManager.GetActiveScene().name != "Main Menu")
-                slot2SaveText.text = date;
-        }
-
-        if (File.Exists(Path.Combine(Application.persistentDataPath, $"Save003.json")))
-        {
-            slot3Button.interactable = true;
-            DateTime dateRaw = File.GetLastWriteTime(Path.Combine(Application.persistentDataPath, $"Save003.json"));
-            string date = $"{dateRaw.Day}.{dateRaw.Month}.{dateRaw.Year.ToString().Substring(2)} - {dateRaw.Hour}:{dateRaw.Minute}";
-            slot3LoadText.text = date;
-            if (SceneManager.GetActiveScene().name != "Main Menu")
-                slot3SaveText.text = date;
-        }
-
+        SaveTextSet(1);
+        SaveTextSet(2);
+        SaveTextSet(3);
     }
 
     public void New()
@@ -79,10 +52,66 @@ public class SaveManager : MonoBehaviour
         saveData = new SaveData(scene, jsonPath, stringNumber);
         string json = JsonConvert.SerializeObject(saveData, Formatting.Indented);
         File.WriteAllText(path, json);
+        switch (slot)
+        {
+            case 1:
+                slot1SaveText.text = GetSaveDate($"Save00{slot}.json");
+                slot1LoadText.text = GetSaveDate($"Save00{slot}.json");
+                break;
+            case 2:
+                slot2SaveText.text = GetSaveDate($"Save00{slot}.json");
+                slot2LoadText.text = GetSaveDate($"Save00{slot}.json");
+                break;
+            case 3:
+                slot3SaveText.text = GetSaveDate($"Save00{slot}.json");
+                slot3LoadText.text = GetSaveDate($"Save00{slot}.json");
+                break;
+        }
     }
 
     public void MainMenu()
     {
         SceneManager.LoadScene("Main Menu");
+    }
+
+    string GetSaveDate(string fileName)
+    {
+        DateTime dateRaw = File.GetLastWriteTime(Path.Combine(Application.persistentDataPath, fileName));
+        string day = Convert.ToInt32(dateRaw.Day) < 10 ? "0" + dateRaw.Day.ToString() : dateRaw.Day.ToString();
+        string month = Convert.ToInt32(dateRaw.Month) < 10 ? "0" + dateRaw.Month.ToString() : dateRaw.Month.ToString();
+        string year = dateRaw.Year.ToString().Substring(2);
+        string hour = Convert.ToInt32(dateRaw.Hour) < 10 ? "0" + dateRaw.Hour.ToString() : dateRaw.Hour.ToString();
+        string minute = Convert.ToInt32(dateRaw.Minute) < 10 ? "0" + dateRaw.Minute.ToString() : dateRaw.Minute.ToString();
+
+        string date = $"{day}.{month}.{year} - {hour}:{minute}";
+        return date;
+    }
+
+    void SaveTextSet(int slot)
+    {
+        if (File.Exists(Path.Combine(Application.persistentDataPath, $"Save00{slot}.json")))
+        {
+            switch (slot)
+            {
+                case 1:
+                    slot1Button.interactable = true;
+                    slot1LoadText.text = GetSaveDate($"Save00{slot}.json");
+                    if (SceneManager.GetActiveScene().name != "Main Menu")
+                        slot1SaveText.text = GetSaveDate($"Save00{slot}.json");
+                    break;
+                case 2:
+                    slot2Button.interactable = true;
+                    slot2LoadText.text = GetSaveDate($"Save00{slot}.json");
+                    if (SceneManager.GetActiveScene().name != "Main Menu")
+                        slot2SaveText.text = GetSaveDate($"Save00{slot}.json");
+                    break;
+                case 3:
+                    slot3Button.interactable = true;
+                    slot3LoadText.text = GetSaveDate($"Save00{slot}.json");
+                    if (SceneManager.GetActiveScene().name != "Main Menu")
+                        slot3SaveText.text = GetSaveDate($"Save00{slot}.json");
+                    break;
+            }
+        }
     }
 }
