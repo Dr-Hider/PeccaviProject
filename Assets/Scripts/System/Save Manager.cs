@@ -14,7 +14,8 @@ public class SaveManager : MonoBehaviour
     // Translation of chapter names
     Dictionary<string, string> chapterNames = new Dictionary<string, string>()
     {
-        { "Chapter 1 Introduction", "Глава 1\nВступление" }
+        { "Chapter 1 Introduction", "Глава 1\nВступление" },
+        { "Chapter 1 Awaking", "Глава 1\nПробуждение" }
     };
 
     // Clear save data in main menu

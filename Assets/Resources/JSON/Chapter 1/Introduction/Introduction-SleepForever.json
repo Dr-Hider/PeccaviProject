@@ -1,7 +1,7 @@
 [
     {
         "name": "Лия",
-        "text": "...Не просыпаться?",
+        "text": "...Не просыпаться.",
         "image": "Chapter 1/Introduction/Flooded Room",
         "music": "In the Androgynous Dark",
         "sound": ""
@@ -9,7 +9,7 @@
 
     {
         "name": "Лия",
-        "text": "А зачем?",
+        "text": "Эта фраза медленно опускается во мне, как камень.",
         "image": "Chapter 1/Introduction/Flooded Room",
         "music": "In the Androgynous Dark",
         "sound": ""
@@ -17,7 +17,7 @@
 
     {
         "name": "Лия",
-        "text": "Что ждёт меня там, где боль реальнее кошмара?",
+        "text": "Я думала, что пробуждение — это спасение.",
         "image": "Chapter 1/Introduction/Flooded Room",
         "music": "In the Androgynous Dark",
         "sound": ""
@@ -25,7 +25,15 @@
 
     {
         "name": "Лия",
-        "text": "Где я — ошибка.",
+        "text": "Но, может быть, это просто ещё одна форма наказания.",
+        "image": "Chapter 1/Introduction/Flooded Room",
+        "music": "In the Androgynous Dark",
+        "sound": ""
+    },
+
+    {
+        "name": "",
+        "text": "(Вода у ног становится теплее. Граница между телом и отражением исчезает.)",
         "image": "Chapter 1/Introduction/Flooded Room",
         "music": "In the Androgynous Dark",
         "sound": ""
@@ -33,7 +41,7 @@
 
     {
         "name": "Лия",
-        "text": "Где Бог молчит.",
+        "text": "Если я открою глаза...",
         "image": "Chapter 1/Introduction/Flooded Room",
         "music": "In the Androgynous Dark",
         "sound": ""
@@ -41,7 +49,23 @@
 
     {
         "name": "Лия",
-        "text": "Где каждый вдох — напоминание о том, что я не должна была родиться.",
+        "text": "Я снова увижу потолок с трещиной в форме креста. Услышу дыхание тех, кто спит рядом, и вспомню, что даже среди живых я — одна.",
+        "image": "Chapter 1/Introduction/Flooded Room",
+        "music": "In the Androgynous Dark",
+        "sound": ""
+    },
+
+    {
+        "name": "Лия",
+        "text": "Там меня будут учить молиться тому, кто никогда не отвечает.",
+        "image": "Chapter 1/Introduction/Flooded Room",
+        "music": "In the Androgynous Dark",
+        "sound": ""
+    },
+
+    {
+        "name": "Лия",
+        "text": "Там мне скажут, что терпение — добродетель, а боль — доказательство веры.",
         "image": "Chapter 1/Introduction/Flooded Room",
         "music": "In the Androgynous Dark",
         "sound": ""
@@ -57,7 +81,7 @@
 
     {
         "name": "Лия",
-        "text": "Здесь не нужно вставать.",
+        "text": "Но здесь...",
         "image": "Chapter 1/Introduction/Flooded Room",
         "music": "In the Androgynous Dark",
         "sound": ""
@@ -65,7 +89,7 @@
 
     {
         "name": "Лия",
-        "text": "Здесь никто не будет смотреть на меня, как на тень.",
+        "text": "Здесь никто не требует от меня быть чистой. Здесь не спрашивают, ЗА ЧТО я родилась.",
         "image": "Chapter 1/Introduction/Flooded Room",
         "music": "In the Androgynous Dark",
         "sound": ""
@@ -73,7 +97,7 @@
 
     {
         "name": "Лия",
-        "text": "Здесь нет греха.",
+        "text": "Здесь не нужно искупать чужие грехи.",
         "image": "Chapter 1/Introduction/Flooded Room",
         "music": "In the Androgynous Dark",
         "sound": ""
@@ -81,7 +105,7 @@
 
     {
         "name": "Лия",
-        "text": "Только тишина.",
+        "text": "Здесь я могу быть просто тенью и не бояться света.",
         "image": "Chapter 1/Introduction/Flooded Room",
         "music": "In the Androgynous Dark",
         "sound": ""
@@ -89,7 +113,15 @@
 
     {
         "name": "Лия",
-        "text": "Тепло.",
+        "text": "...",
+        "image": "Chapter 1/Introduction/Flooded Room",
+        "music": "In the Androgynous Dark",
+        "sound": "Church Bells"
+    },
+
+    {
+        "name": "Лия",
+        "text": "Я устала ждать прощения.",
         "image": "Chapter 1/Introduction/Flooded Room",
         "music": "In the Androgynous Dark",
         "sound": ""
@@ -97,7 +129,7 @@
 
     {
         "name": "Лия",
-        "text": "Ничего.",
+        "text": "Я устала просить.",
         "image": "Chapter 1/Introduction/Flooded Room",
         "music": "In the Androgynous Dark",
         "sound": ""
@@ -105,7 +137,23 @@
 
     {
         "name": "Лия",
-        "text": "Я не проснусь.",
+        "text": "Если моё существование — грех, то пусть он закончится здесь.",
+        "image": "Chapter 1/Introduction/Flooded Room",
+        "music": "In the Androgynous Dark",
+        "sound": ""
+    },
+
+    {
+        "name": "Лия",
+        "text": "Если моё рождение — ошибка, то я больше не буду её продолжать.",
+        "image": "Chapter 1/Introduction/Flooded Room",
+        "music": "In the Androgynous Dark",
+        "sound": ""
+    },
+
+    {
+        "name": "Лия",
+        "text": "Я выбираю сон.",
         "image": "",
         "music": "In the Androgynous Dark",
         "sound": ""
@@ -113,13 +161,23 @@
 
     {
         "name": "Лия",
-        "text": "Пусть этот сон будет моим последним.",
+        "text": "Не как бегство.",
         "image": "",
         "music": "In the Androgynous Dark",
         "sound": ""
     },
 
     {
-        "switchscene": "true"
+        "name": "Лия",
+        "text": "А как покой.",
+        "image": "",
+        "music": "In the Androgynous Dark",
+        "sound": ""
+    },
+
+    {
+        "ending": "true",
+        "endingname": "Somnus Aeternus (Вечный сон)",
+        "endingdescription": "Лия отказывается от пробуждения и растворяется в собственном сне. Не найдя ответа ни в вере, ни в боли, она выбирает покой тишины."
     }
 ]

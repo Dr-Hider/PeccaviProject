@@ -144,6 +144,8 @@
     },
 
     {
-        "switchscene": "true"
+        "switchscene": "true",
+        "scenename": "Chapter 1 Awaking",
+        "path": "Chapter 1/Awaking/Awaking"
     }
 ]

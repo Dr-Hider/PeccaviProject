@@ -11,6 +11,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Chapter 1 Introduction.unity
     guid: a41a128544ee05f43a2738e1959591ee
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: 0aa1395acd534674789ad66e12dad3f0
+  - enabled: 1
+    path: Assets/Scenes/Chapter 1 Awaking.unity
+    guid: 556e098ab58718d4494c323c3d09016a
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

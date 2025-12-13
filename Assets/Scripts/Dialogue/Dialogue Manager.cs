@@ -1,8 +1,8 @@
-using System;
 using System.Collections.Generic;
 using Newtonsoft.Json;
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class DialogueManager : MonoBehaviour
 {
@@ -52,7 +52,7 @@ public class DialogueManager : MonoBehaviour
             // If current string is the last in current JSON file
             if (StringNumber == data.Count - 1)
             {
-                // If the next action is a choice
+                // If the next string is a choice
                 if (data[StringNumber].ContainsKey("choice"))
                 {
                     mainPanel.SetActive(false);
@@ -60,6 +60,27 @@ public class DialogueManager : MonoBehaviour
                     choice1Text.text = data[StringNumber]["choice1string"];
                     choice2Text.text = data[StringNumber]["choice2string"];
                 }
+
+                // If the next string is an ending
+                if (data[StringNumber].ContainsKey("ending"))
+                {
+                    EndingParams.EndingName = data[StringNumber]["endingname"];
+                    EndingParams.EndingDescription = data[StringNumber]["endingdescription"];
+                    musicManager.OnChangeAudio(Resources.Load<AudioClip>("Music/Red Queens Lullaby"));
+                    if (musicManager.Mute)
+                        musicManager.Mute = false;
+                    SceneManager.LoadScene("Ending");
+                }
+
+                // If the next string is an another scene
+                if (data[StringNumber].ContainsKey("switchscene"))
+                {
+                    SaveData.Scene = data[StringNumber]["scenename"];
+                    SaveData.JsonPath = data[StringNumber]["path"];
+                    SaveData.StringNumber = 0;
+                    SceneManager.LoadScene(SaveData.Scene);
+                }
+
                 return;
             }
 
