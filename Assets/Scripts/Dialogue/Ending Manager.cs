@@ -7,6 +7,7 @@ public class EndingManager : MonoBehaviour
     public TextMeshProUGUI endingName;
     public TextMeshProUGUI endingDescription;
 
+    // Getting ending params
     void Awake()
     {
         endingName.text = EndingParams.EndingName;

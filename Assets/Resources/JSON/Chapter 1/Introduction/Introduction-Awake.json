@@ -36,21 +36,21 @@
         "text": "(Резкое дыхание. Темнота. Скрип кровати.)",
         "image": "",
         "music": "Ajar",
-        "sound": ""
+        "sound": "Breathing Scratching"
     },
 
     {
         "name": "Лия",
         "text": "Я открываю глаза.",
-        "image": "",
+        "image": "Chapter 1/Introduction/Bedroom",
         "music": "Ajar",
         "sound": ""
     },
 
     {
         "name": "Лия",
-        "text": "Потолок. Серая штукатурка, трещина в форме креста. Воздух тяжёлый, пахнет воском и железом.",
-        "image": "",
+        "text": "Потолок. Серая штукатурка, огромный крест. Воздух тяжёлый, пахнет воском и железом.",
+        "image": "Chapter 1/Introduction/Bedroom",
         "music": "Ajar",
         "sound": ""
     },
@@ -58,7 +58,7 @@
     {
         "name": "Лия",
         "text": "На соседних кроватях — спящие силуэты. Ни одного звука, кроме моих собственных мыслей.",
-        "image": "",
+        "image": "Chapter 1/Introduction/Bedroom",
         "music": "Ajar",
         "sound": ""
     },
@@ -66,23 +66,23 @@
     {
         "name": "Лия",
         "text": "Иногда кажется, что тишина здесь громче любого кошмара.",
-        "image": "",
+        "image": "Chapter 1/Introduction/Bedroom",
         "music": "Ajar",
         "sound": ""
     },
 
     {
         "name": "",
-        "text": "(Пауза. Звук часов.)",
-        "image": "",
+        "text": "(Пауза. Звук часов в голове.)",
+        "image": "Chapter 1/Introduction/Bedroom",
         "music": "Ajar",
-        "sound": ""
+        "sound": "Clock Tick"
     },
 
     {
         "name": "Лия",
         "text": "Сны заканчиваются. Но то, что ждёт после пробуждения, — просто другой их вид.",
-        "image": "",
+        "image": "Chapter 1/Introduction/Bedroom",
         "music": "Ajar",
         "sound": ""
     },
@@ -90,7 +90,7 @@
     {
         "name": "Лия",
         "text": "В этом месте ночь никогда не кончается.",
-        "image": "",
+        "image": "Chapter 1/Introduction/Bedroom",
         "music": "Ajar",
         "sound": ""
     },
@@ -98,7 +98,7 @@
     {
         "name": "Лия",
         "text": "А утро...",
-        "image": "",
+        "image": "Chapter 1/Introduction/Bedroom",
         "music": "Ajar",
         "sound": ""
     },
@@ -106,7 +106,7 @@
     {
         "name": "Лия",
         "text": "просто делает тьму видимой.",
-        "image": "",
+        "image": "Chapter 1/Introduction/Bedroom",
         "music": "Ajar",
         "sound": ""
     },
@@ -114,7 +114,7 @@
     {
         "name": "",
         "text": "(Медленно загорается окно, красноватый рассвет. Звон колокола.)",
-        "image": "",
+        "image": "Chapter 1/Introduction/Sunrise",
         "music": "Ajar",
         "sound": "Church Bells"
     },
@@ -122,7 +122,7 @@
     {
         "name": "?",
         "text": "Вставайте, дочери света.",
-        "image": "",
+        "image": "Chapter 1/Introduction/Bedroom Sunrise",
         "music": "Ajar",
         "sound": ""
     },
@@ -130,15 +130,15 @@
     {
         "name": "Лия",
         "text": "Голос настоятельницы звучит, как трещина в стекле.",
-        "image": "",
+        "image": "Chapter 1/Introduction/Bedroom Sunrise",
         "music": "Ajar",
         "sound": ""
     },
 
     {
         "name": "Лия",
-        "text": "А я думаю: если мы — дочери света, то почему наш Бог спит в темноте?",
-        "image": "",
+        "text": "А я думаю, если мы — дочери света, то почему наш Бог спит в темноте?",
+        "image": "Chapter 1/Introduction/Bedroom Sunrise",
         "music": "Ajar",
         "sound": ""
     },
