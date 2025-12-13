@@ -9,6 +9,7 @@ public class SaveManager : MonoBehaviour
     SaveData saveData; // Save data object for serialize or deserialize
 
     public TextManager textManager; // Text manager object
+    SoundManager musicManager; // Music Manager object
 
     // Translation of chapter names
     Dictionary<string, string> chapterNames = new Dictionary<string, string>()
@@ -21,6 +22,11 @@ public class SaveManager : MonoBehaviour
     {
         if (SceneManager.GetActiveScene().name == "Main Menu")
             saveData = new SaveData();
+    }
+
+    void Start()
+    {
+        musicManager = GameObject.FindGameObjectWithTag("musicManager").GetComponent<SoundManager>();
     }
 
     // Method to start new game
@@ -58,9 +64,21 @@ public class SaveManager : MonoBehaviour
         textManager.SaveTextSet(slot); // Update text fields
     }
 
+    public void Delete(int slot)
+    {
+        string path = Path.Combine(Application.persistentDataPath, $"Save00{slot}");
+        File.Delete($"{path}.json");
+        File.Delete($"{path}.txt");
+
+        textManager.DefaultTextSet(slot);
+    }
+
     // Method to return to main menu
     public void MainMenu()
     {
+        musicManager.OnChangeAudio(Resources.Load<AudioClip>("Music/Red Queens Lullaby"));
+        if (musicManager.Mute)
+            musicManager.Mute = false;
         SceneManager.LoadScene("Main Menu");
     }
 }
