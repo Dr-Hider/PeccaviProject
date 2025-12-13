@@ -3,7 +3,7 @@
         "name": "Лия",
         "text": "...Не просыпаться?",
         "image": "Chapter 1/Introduction/Flooded Room",
-        "music": "",
+        "music": "In the Androgynous Dark",
         "sound": ""
     },
 
@@ -11,7 +11,7 @@
         "name": "Лия",
         "text": "А зачем?",
         "image": "Chapter 1/Introduction/Flooded Room",
-        "music": "",
+        "music": "In the Androgynous Dark",
         "sound": ""
     },
 
@@ -19,7 +19,7 @@
         "name": "Лия",
         "text": "Что ждёт меня там, где боль реальнее кошмара?",
         "image": "Chapter 1/Introduction/Flooded Room",
-        "music": "",
+        "music": "In the Androgynous Dark",
         "sound": ""
     },
 
@@ -27,7 +27,7 @@
         "name": "Лия",
         "text": "Где я — ошибка.",
         "image": "Chapter 1/Introduction/Flooded Room",
-        "music": "",
+        "music": "In the Androgynous Dark",
         "sound": ""
     },
 
@@ -35,7 +35,7 @@
         "name": "Лия",
         "text": "Где Бог молчит.",
         "image": "Chapter 1/Introduction/Flooded Room",
-        "music": "",
+        "music": "In the Androgynous Dark",
         "sound": ""
     },
 
@@ -43,7 +43,7 @@
         "name": "Лия",
         "text": "Где каждый вдох — напоминание о том, что я не должна была родиться.",
         "image": "Chapter 1/Introduction/Flooded Room",
-        "music": "",
+        "music": "In the Androgynous Dark",
         "sound": ""
     },
 
@@ -51,15 +51,15 @@
         "name": "",
         "text": "(Колокол звучит ближе. Вода покрывается лёгкими кругами, словно зовёт.)",
         "image": "Chapter 1/Introduction/Flooded Room",
-        "music": "",
-        "sound": ""
+        "music": "In the Androgynous Dark",
+        "sound": "Church Bells"
     },
 
     {
         "name": "Лия",
         "text": "Здесь не нужно вставать.",
         "image": "Chapter 1/Introduction/Flooded Room",
-        "music": "",
+        "music": "In the Androgynous Dark",
         "sound": ""
     },
 
@@ -67,7 +67,7 @@
         "name": "Лия",
         "text": "Здесь никто не будет смотреть на меня, как на тень.",
         "image": "Chapter 1/Introduction/Flooded Room",
-        "music": "",
+        "music": "In the Androgynous Dark",
         "sound": ""
     },
 
@@ -75,7 +75,7 @@
         "name": "Лия",
         "text": "Здесь нет греха.",
         "image": "Chapter 1/Introduction/Flooded Room",
-        "music": "",
+        "music": "In the Androgynous Dark",
         "sound": ""
     },
 
@@ -83,7 +83,7 @@
         "name": "Лия",
         "text": "Только тишина.",
         "image": "Chapter 1/Introduction/Flooded Room",
-        "music": "",
+        "music": "In the Androgynous Dark",
         "sound": ""
     },
 
@@ -91,7 +91,7 @@
         "name": "Лия",
         "text": "Тепло.",
         "image": "Chapter 1/Introduction/Flooded Room",
-        "music": "",
+        "music": "In the Androgynous Dark",
         "sound": ""
     },
 
@@ -99,7 +99,7 @@
         "name": "Лия",
         "text": "Ничего.",
         "image": "Chapter 1/Introduction/Flooded Room",
-        "music": "",
+        "music": "In the Androgynous Dark",
         "sound": ""
     },
 
@@ -107,7 +107,7 @@
         "name": "Лия",
         "text": "Я не проснусь.",
         "image": "",
-        "music": "",
+        "music": "In the Androgynous Dark",
         "sound": ""
     },
 
@@ -115,7 +115,7 @@
         "name": "Лия",
         "text": "Пусть этот сон будет моим последним.",
         "image": "",
-        "music": "",
+        "music": "In the Androgynous Dark",
         "sound": ""
     },
 

@@ -12,7 +12,18 @@ public class SoundManager : MonoBehaviour
     {
         get { return (int)(audioSource.volume * 100); }
         set { audioSource.volume = value / 100f; }
+    }
 
+    public AudioClip CurrentClip
+    {
+        get { return audioSource.clip; }
+        private set { audioSource.clip = value; }
+    }
+
+    public bool Mute
+    {
+        get { return audioSource.mute; }
+        set { audioSource.mute = value; }
     }
 
     void Awake()
@@ -31,5 +42,13 @@ public class SoundManager : MonoBehaviour
 
         audioSource = GetComponent<AudioSource>();
         ASV = PlayerPrefs.GetInt($"{type}Volume", 100); // Getting saved settings
+    }
+
+    // Method to change the audio clip
+    public void OnChangeAudio(AudioClip audioClip)
+    {
+        audioSource.Stop();
+        CurrentClip = audioClip;
+        audioSource.Play();
     }
 }

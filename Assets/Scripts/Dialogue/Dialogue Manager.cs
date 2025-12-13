@@ -18,6 +18,9 @@ public class DialogueManager : MonoBehaviour
     public TextMeshProUGUI choice1Text; // Text field for choice 1
     public TextMeshProUGUI choice2Text; // Text field for choice 2
 
+    SoundManager musicManager; // Music Manager object
+    SoundManager sfxManager; // SFX Manager object
+
     // Setting start configuration
     void Awake()
     {
@@ -28,6 +31,9 @@ public class DialogueManager : MonoBehaviour
 
     void Start()
     {
+        musicManager = GameObject.FindGameObjectWithTag("musicManager").GetComponent<SoundManager>();
+        sfxManager = GameObject.FindGameObjectWithTag("sfxManager").GetComponent<SoundManager>();
+
         OnStringChange();
     }
 
@@ -57,15 +63,35 @@ public class DialogueManager : MonoBehaviour
                 return;
             }
 
-            // Changing text fields and background
-            nameText.text = data[StringNumber]["name"]; // Setting the speaker's name
-            dialogueText.text = data[StringNumber]["text"]; // Setting the current dialogue string
+            // Setting the text fields
+            nameText.text = data[StringNumber]["name"];
+            dialogueText.text = data[StringNumber]["text"];
 
             // Setting the background
             if (data[StringNumber]["image"] == "")
-                background.sprite = null;
-            else
+                background.enabled = false;
+            else if (background.sprite.name != data[StringNumber]["image"])
+            {
                 background.sprite = Resources.Load<Sprite>($"Images/{data[StringNumber]["image"]}");
+                if (!background.enabled)
+                    background.enabled = true;
+            }
+
+            // Setting the music clip
+            if (data[StringNumber]["music"] == "")
+                musicManager.Mute = true;
+            else if (musicManager.CurrentClip.name != data[StringNumber]["music"])
+            {
+                musicManager.OnChangeAudio(Resources.Load<AudioClip>($"Music/{data[StringNumber]["music"]}"));
+                if (musicManager.Mute == true)
+                    musicManager.Mute = false;
+            }
+
+            // Setting the sound
+            if (data[StringNumber]["sound"] != "")
+            {
+                sfxManager.OnChangeAudio(Resources.Load<AudioClip>($"Sounds/{data[StringNumber]["sound"]}"));
+            }
         }
         catch
         {
@@ -94,6 +120,7 @@ public class DialogueManager : MonoBehaviour
     // Method which called on choice made
     public void OnChoice(int choice)
     {
+        sfxManager.OnChangeAudio(Resources.Load<AudioClip>($"Sounds/OnChoice")); // Play sound of choice
         switch (choice)
         {
             // Setting a new path to JSON file

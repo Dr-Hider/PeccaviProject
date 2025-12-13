@@ -3,7 +3,7 @@
         "name": "",
         "text": "(Звук капли, тишина. Тусклый свет.)",
         "image": "",
-        "music": "",
+        "music": "Tea for Two",
         "sound": ""
     },
 
@@ -11,15 +11,15 @@
         "name": "Лия",
         "text": "...колокол.",
         "image": "",
-        "music": "",
-        "sound": ""
+        "music": "Tea for Two",
+        "sound": "Church Bells"
     },
 
     {
         "name": "Лия",
         "text": "Сначала он звенел где-то далеко — будто в чьей-то памяти. Потом ближе. До тех пор, пока я не услышала, как дрожит стекло у окна.",
         "image": "",
-        "music": "",
+        "music": "Tea for Two",
         "sound": ""
     },
 
@@ -27,7 +27,7 @@
         "name": "",
         "text": "(Шёпот молитвы вперемешку с дыханием.)",
         "image": "",
-        "music": "",
+        "music": "Tea for Two",
         "sound": ""
     },
 
@@ -35,7 +35,7 @@
         "name": "Лия",
         "text": "Мне снится, что я стою на алтаре. Под ногами — вода, холодная, по щиколотку.",
         "image": "Chapter 1/Introduction/Flooded Room",
-        "music": "",
+        "music": "Tea for Two",
         "sound": ""
     },
 
@@ -43,7 +43,7 @@
         "name": "Лия",
         "text": "На стенах — молитвы, выцарапанные ногтями.",
         "image": "Chapter 1/Introduction/Writings",
-        "music": "",
+        "music": "Tea for Two",
         "sound": ""
     },
 
@@ -51,7 +51,7 @@
         "name": "Лия",
         "text": "Я пытаюсь прочитать их, но всё смешивается в бессмысленный набор букв. Только одно слово могу разобрать.",
         "image": "Chapter 1/Introduction/Writings",
-        "music": "",
+        "music": "Tea for Two",
         "sound": ""
     },
 
@@ -59,7 +59,7 @@
         "name": "Лия",
         "text": "Peccavi.",
         "image": "Chapter 1/Introduction/Peccavi",
-        "music": "",
+        "music": "Tea for Two",
         "sound": ""
     },
 
@@ -67,7 +67,7 @@
         "name": "Лия",
         "text": "Я согрешила.",
         "image": "Chapter 1/Introduction/Peccavi",
-        "music": "",
+        "music": "Tea for Two",
         "sound": ""
     },
 
@@ -75,7 +75,7 @@
         "name": "Лия",
         "text": "Мои собственные слова отдаются эхом, будто произнесены не мной. Они расползаются по воде, как чернила.",
         "image": "Chapter 1/Introduction/Flooded Room",
-        "music": "",
+        "music": "Tea for Two",
         "sound": ""
     },
 
