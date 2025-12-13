@@ -5,13 +5,11 @@ public class GameManager : MonoBehaviour
 {
     SoundManager musicManager; // Music Manager object
     SoundManager sfxManager; // SFX Manager object
-    public TextMeshProUGUI versionText; // Game version text
 
     void Start()
     {
         musicManager = GameObject.FindGameObjectWithTag("musicManager").GetComponent<SoundManager>();
         sfxManager = GameObject.FindGameObjectWithTag("sfxManager").GetComponent<SoundManager>();
-        versionText.text = $"Vesrion: {Application.version}"; // Setting the current game version to the game vesrion text field
     }
 
     // Method to leave the game

@@ -1,8 +1,9 @@
 using Newtonsoft.Json;
-using UnityEngine;
 
+// Class to transfer save data between scenes
 public class SaveData
 {
+    // Static properities for use
     [JsonIgnore]
     public static string Scene { get; set; }
 
@@ -12,6 +13,7 @@ public class SaveData
     [JsonIgnore]
     public static int StringNumber { get; set; }
 
+    // Non static properties for a serialization
     [JsonProperty("Scene")]
     public string NonStaticScene
     {
@@ -33,12 +35,14 @@ public class SaveData
         set {  StringNumber = value; }
     }
 
+    // Default (new game) state
     public SaveData()
     {
         Scene = "Chapter 1 Introduction";
         JsonPath = "Chapter 1/Introduction/Introduction";
         StringNumber = 0;
     }
+
     public SaveData(string scene, string jsonPath, int stringNumber)
     {
         Scene = scene;
