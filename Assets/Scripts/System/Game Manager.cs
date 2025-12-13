@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -30,5 +31,14 @@ public class GameManager : MonoBehaviour
         PlayerPrefs.SetInt("musicVolume", musicVolume);
         PlayerPrefs.SetInt("sfxVolume", sfxVolume);
         PlayerPrefs.Save();
+    }
+
+    // Method to open soudtracks menu
+    public void Soudtracks()
+    {
+        Destroy(musicManager.gameObject);
+        Destroy(sfxManager.gameObject);
+        SoundManager._counter = 0; // Setting counter of sound managers to zero
+        SceneManager.LoadScene("Soundtracks");
     }
 }

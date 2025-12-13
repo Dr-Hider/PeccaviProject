@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class SoundManager : MonoBehaviour
 {
-    static int _counter; // Creating a variable to control a number of objects
+    public static int _counter; // Creating a variable to control a number of objects
 
     AudioSource audioSource;
     public string type; // Type of Audio Source object (Music or SFX)
