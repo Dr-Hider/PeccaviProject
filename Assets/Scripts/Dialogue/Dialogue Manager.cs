@@ -11,7 +11,7 @@ public class DialogueManager : MonoBehaviour
     List<Dictionary<string, string>> data; // List of all dialogue strings
     public TextMeshProUGUI nameText; // Text field for the speaker's name
     public TextMeshProUGUI dialogueText; // Text field for a dialogue text
-    public SpriteRenderer background;
+    public SpriteRenderer background; // Background sprite
 
     public GameObject mainPanel; // Panel which contains dialogue window and under menu
     public GameObject choicePanel; // Panel which contains choice
@@ -96,6 +96,10 @@ public class DialogueManager : MonoBehaviour
                 background.sprite = Resources.Load<Sprite>($"Images/{data[StringNumber]["image"]}");
                 if (!background.enabled)
                     background.enabled = true;
+
+                // Unlocking the image in gallery
+                PlayerPrefs.SetInt(background.sprite.name, 1);
+                PlayerPrefs.Save();
             }
 
             // Setting the music clip

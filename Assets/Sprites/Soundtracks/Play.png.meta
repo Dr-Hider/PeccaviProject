@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 155b609a4cc0c0b488fbbfcd16c88aab
+guid: bfa0aeeeb9c056a4ba69a0901811844a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6575643861556400134
-    second: Peccavi_0
+      213: 6208176927266180224
+    second: Play_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Peccavi_0
+      name: Play_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1920
-        height: 1080
+        x: 52
+        y: 35
+        width: 148
+        height: 186
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: affe3764fbe9eb4a0800000000000000
-      internalID: -6575643861556400134
+      spriteID: 08c0a74e500e72650800000000000000
+      internalID: 6208176927266180224
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Peccavi_0: -6575643861556400134
+      Play_0: 6208176927266180224
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -6,7 +6,7 @@ TagManager:
   tags:
   - musicManager
   - sfxManager
-  - saveManager
+  - imageButton
   layers:
   - Default
   - TransparentFX

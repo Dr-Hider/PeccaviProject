@@ -2,6 +2,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
+using static UnityEngine.Rendering.DebugUI;
 
 public class SoundtrackManager : MonoBehaviour
 {
@@ -40,7 +41,7 @@ public class SoundtrackManager : MonoBehaviour
 
     void Update()
     {
-        progressBar.value = audioSource.time;
+        progressBar.value = audioSource.time; // Changing time position on changin value of the progress bar
     }
 
     // Method to change the time position

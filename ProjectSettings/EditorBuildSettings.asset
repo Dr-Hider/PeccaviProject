@@ -20,6 +20,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Soundtracks.unity
     guid: 5fd7e285d6ff52f4ca457ec5c696ef6a
+  - enabled: 1
+    path: Assets/Scenes/Gallery.unity
+    guid: 6f6f3ae366026b747914fe235b461457
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

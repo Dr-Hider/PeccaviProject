@@ -41,4 +41,13 @@ public class GameManager : MonoBehaviour
         SoundManager._counter = 0; // Setting counter of sound managers to zero
         SceneManager.LoadScene("Soundtracks");
     }
+
+    // Method to open gallery menu
+    public void Gallery()
+    {
+        Destroy(musicManager.gameObject);
+        Destroy(sfxManager.gameObject);
+        SoundManager._counter = 0; // Setting counter of sound managers to zero
+        SceneManager.LoadScene("Gallery");
+    }
 }
