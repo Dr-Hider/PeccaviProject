@@ -97,7 +97,7 @@ public class DialogueManager : MonoBehaviour
                 if (!background.enabled)
                     background.enabled = true;
 
-                // Unlocking the image in gallery
+                // Unlocking an image in gallery
                 PlayerPrefs.SetInt(background.sprite.name, 1);
                 PlayerPrefs.Save();
             }

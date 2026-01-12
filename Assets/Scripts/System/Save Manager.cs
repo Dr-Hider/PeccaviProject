@@ -65,6 +65,7 @@ public class SaveManager : MonoBehaviour
         textManager.SaveTextSet(slot); // Update text fields
     }
 
+    // Method to delete a saved game
     public void Delete(int slot)
     {
         string path = Path.Combine(Application.persistentDataPath, $"Save00{slot}");
